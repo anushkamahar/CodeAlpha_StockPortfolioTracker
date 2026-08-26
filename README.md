@@ -1,6 +1,6 @@
 # Stock Portfolio Tracker
 
-This is a simple stock portfolio tracker made using Python. I created this project as part of my CodeAlpha Python Programming Internship.
+This is a simple stock portfolio tracker made using Python. 
 
 ## About the Project
 
@@ -54,10 +54,6 @@ After finishing, the total investment will be displayed and the portfolio will b
 
 * `StockPortfolioTracker.py` - Main Python file for the portfolio tracker.
 * `README.md` - Information about the project.
-
-## CodeAlpha Internship
-
-This project was completed as **Task 2 - Stock Portfolio Tracker** for the CodeAlpha Python Programming Internship.
 
 ## Author
 
