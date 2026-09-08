@@ -1,6 +1,6 @@
 # Stock Portfolio Tracker
 
-This is a simple stock portfolio tracker made using Python. 
+This is a simple stock portfolio tracker made using Python.I created this project as part of my CodeAlpha Python Programming Internship. 
 
 ## About the Project
 
